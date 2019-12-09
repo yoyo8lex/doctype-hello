@@ -1,3 +1,4 @@
+Step #1
 Select Developer from Desk
 
 Click on Module Def
@@ -10,7 +11,7 @@ Enter module name as 'doctype-hello'
 Enter 'erpnext' for app name.
 
 Click on Save
-
+Step #2:
 You can see that the new module by the name 'doctype-hello' is created.
 
 Similarly for Doctype
